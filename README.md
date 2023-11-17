@@ -70,7 +70,7 @@ Users can choose from the available options, or can import their own preferred b
 
 ### Contact
 
-We encourage users to provide feedback as [GitHub Issues](https://github.com/kaizadp/nmrrr/issues).  
-We also encourage users to submit additional NMR binsets via [GitHub Issues](https://github.com/kaizadp/nmrrr/issues) or [pull requests](https://github.com/kaizadp/nmrrr/pulls), so they can be incorporated into future versions of the package.  
+We encourage users to provide feedback as [GitHub Issues](https://github.com/COMPASS-DOE/nmrrr/issues).  
+We also encourage users to submit additional NMR binsets via [GitHub Issues](https://github.com/COMPASS-DOE/nmrrr/issues) or [pull requests](https://github.com/COMPASS-DOE/nmrrr/pulls), so they can be incorporated into future versions of the package.  
 
 Used this package? Use `citation("nmrrr")` for citation information.
