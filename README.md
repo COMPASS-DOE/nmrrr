@@ -13,7 +13,7 @@ Install the package using:
 
 OR
 
-`remotes::install_github("kaizadp/nmrrr", build_vignettes = TRUE)`
+`remotes::install_github("COMPASS-DOE/nmrrr", build_vignettes = TRUE)`
 
 Vignettes can be accessed within R:
 
